@@ -1,0 +1,8 @@
+The Modules List:
+
+1. GUI
+2. Word Dictionary With Guess Checking
+3. MORE CAPSLOCK
+4. Man of the hangs remove body parts after wrong guess
+5. DOCS
+6. usr INPUT Error chekkr
